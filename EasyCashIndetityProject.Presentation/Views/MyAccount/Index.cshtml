@@ -1,0 +1,61 @@
+﻿@model EasyCashIndetityProject.Dto.Dtos.AppUserDtos.AppUserEditDto
+
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/CustomerLayout/Index.cshtml";
+}
+
+<div class="col-md-12">
+	<div class="card">
+		<div class="card-header">
+			<div class="card-title">Easy Cash Müşteri Paneli</div>
+		</div>
+		<div class="card-body">
+			<div class="row">
+
+
+				<div class="col-md-12">
+
+					<form method="post">
+
+						<label>Adınız</label>
+						<input type="text" class="form-control" asp-for="Name" />
+
+						<label>Soyadınız</label>
+						<input type="text" class="form-control" asp-for="Surname" />
+
+						<label for="email2">İlçe</label>
+						<input type="text" class="form-control" asp-for="District" />
+
+						<label for="email2">Şehir</label>
+						<input type="text" class="form-control" asp-for="City" />
+
+						<label for="email2">Telefon Numarası</label>
+						<input type="text" class="form-control" asp-for="PhoneNumber" />
+
+						<label for="email2">Mail Adresi</label>
+						<input type="email" class="form-control" asp-for="Email" />
+
+						<label for="email2">Şifreniz</label>
+						<input type="password" class="form-control" asp-for="Password" />
+
+						<label for="email2">Şifre Tekrar</label>
+						<input type="password" class="form-control" asp-for="ConfirmPassword" />
+
+						<div class="card-action">
+							<button type="submit" class="btn btn-success">Bilgileri Güncelle</button>
+							<button class="btn btn-danger">Vazgeç</button>
+						</div>
+
+					</form>
+
+				</div>
+
+
+			</div>
+		</div>
+
+	</div>
+</div>
+
+

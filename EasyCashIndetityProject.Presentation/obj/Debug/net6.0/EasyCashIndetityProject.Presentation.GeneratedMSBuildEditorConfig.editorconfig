@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EasyCashIndetityProject.Presentation
+build_property.RootNamespace = EasyCashIndetityProject.Presentation
+build_property.ProjectDir = D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.Presentation\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.Presentation
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/EasyCashIdentity/EasyCashIndetityProject/EasyCashIndetityProject.Presentation/Views/ConfirmMail/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmlybU1haWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EasyCashIdentity/EasyCashIndetityProject/EasyCashIndetityProject.Presentation/Views/CustomerLayout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJMYXlvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EasyCashIdentity/EasyCashIndetityProject/EasyCashIndetityProject.Presentation/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EasyCashIdentity/EasyCashIndetityProject/EasyCashIndetityProject.Presentation/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EasyCashIdentity/EasyCashIndetityProject/EasyCashIndetityProject.Presentation/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EasyCashIdentity/EasyCashIndetityProject/EasyCashIndetityProject.Presentation/Views/MyAccount/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlBY2NvdW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EasyCashIdentity/EasyCashIndetityProject/EasyCashIndetityProject.Presentation/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EasyCashIdentity/EasyCashIndetityProject/EasyCashIndetityProject.Presentation/Views/Shared/Components/_CustomerLayoutFooterPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0N1c3RvbWVyTGF5b3V0Rm9vdGVyUGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EasyCashIdentity/EasyCashIndetityProject/EasyCashIndetityProject.Presentation/Views/Shared/Components/_CustomerLayoutHeaderPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0N1c3RvbWVyTGF5b3V0SGVhZGVyUGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EasyCashIdentity/EasyCashIndetityProject/EasyCashIndetityProject.Presentation/Views/Shared/Components/_CustomerLayoutNavbarPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0N1c3RvbWVyTGF5b3V0TmF2YmFyUGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EasyCashIdentity/EasyCashIndetityProject/EasyCashIndetityProject.Presentation/Views/Shared/Components/_CustomerLayoutSidebarPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0N1c3RvbWVyTGF5b3V0U2lkZWJhclBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EasyCashIdentity/EasyCashIndetityProject/EasyCashIndetityProject.Presentation/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EasyCashIdentity/EasyCashIndetityProject/EasyCashIndetityProject.Presentation/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EasyCashIdentity/EasyCashIndetityProject/EasyCashIndetityProject.Presentation/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EasyCashIdentity/EasyCashIndetityProject/EasyCashIndetityProject.Presentation/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EasyCashIdentity/EasyCashIndetityProject/EasyCashIndetityProject.Presentation/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-23d2dx1cup

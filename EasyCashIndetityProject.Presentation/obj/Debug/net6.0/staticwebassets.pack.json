@@ -1,0 +1,2517 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EasyCashIndetityProject.Presentation.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EasyCashIndetityProject.Presentation.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\LICENSE",
+      "PackagePath": "staticwebassets\\kaiadmin"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\README.md",
+      "PackagePath": "staticwebassets\\kaiadmin\\README.md"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\css\\demo.css.map",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\css\\demo.css.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\css\\fonts.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\css\\fonts.min.css",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\css\\fonts.min.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\css\\kaiadmin.css",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\css\\kaiadmin.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\css\\kaiadmin.css.map",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\css\\kaiadmin.css.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\css\\kaiadmin.min.css",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\css\\kaiadmin.min.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\css\\plugins.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\css\\plugins.css.map",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\css\\plugins.css.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\css\\plugins.min.css",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\css\\plugins.min.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\fonts\\fontawesome\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\fonts\\fontawesome\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\fonts\\fontawesome\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\fonts\\fontawesome\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\fonts\\fontawesome\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\fonts\\fontawesome\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\fonts\\fontawesome\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\fonts\\fontawesome\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\fonts\\fontawesome\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\fonts\\fontawesome\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\fonts\\fontawesome\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\fonts\\fontawesome\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\fonts\\fontawesome\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\fonts\\fontawesome\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\fonts\\fontawesome\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\fonts\\fontawesome\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\fonts\\fontawesome\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\fonts\\fontawesome\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\fonts\\fontawesome\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\fonts\\fontawesome\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\fonts\\fontawesome\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\fonts\\fontawesome\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\fonts\\fontawesome\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\fonts\\fontawesome\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\fonts\\fontawesome\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\fonts\\fontawesome\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\fonts\\fontawesome\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\fonts\\fontawesome\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\fonts\\fontawesome\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\fonts\\fontawesome\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\fonts\\summernote\\summernote.eot",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\fonts\\summernote\\summernote.eot"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\fonts\\summernote\\summernote.ttf",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\fonts\\summernote\\summernote.ttf"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\fonts\\summernote\\summernote.woff",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\fonts\\summernote\\summernote.woff"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\fonts\\summernote\\summernote.woff2",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\fonts\\summernote\\summernote.woff2"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\arashmil.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\arashmil.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\bg-404.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\bg-404.jpeg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\blogpost.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\blogpost.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\chadengle.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\chadengle.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\example1-300x300.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\example1-300x300.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\example1.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\example1.jpeg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\example10-300x300.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\example10-300x300.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\example10.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\example10.jpeg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\example11-300x300.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\example11-300x300.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\example11.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\example11.jpeg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\example12-300x300.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\example12-300x300.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\example12.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\example12.jpeg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\example2-300x300.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\example2-300x300.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\example2.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\example2.jpeg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\example3-300x300.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\example3-300x300.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\example3.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\example3.jpeg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\example4-300x300.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\example4-300x300.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\example4.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\example4.jpeg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\example5-300x300.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\example5-300x300.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\example5.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\example5.jpeg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\example6-300x300.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\example6-300x300.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\example6.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\example6.jpeg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\example7-300x300.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\example7-300x300.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\example7.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\example7.jpeg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\example8-300x300.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\example8-300x300.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\example8.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\example8.jpeg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\example9-300x300.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\example9-300x300.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\example9.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\example9.jpeg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\logo.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\logo.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\logo1.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\logo1.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\logo2.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\logo2.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\logoinvoice.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\logoinvoice.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\product1.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\product1.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\product10.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\product10.jpeg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\product11.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\product11.jpeg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\product12.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\product12.jpeg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\product2.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\product2.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\product3.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\product3.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\product4.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\product4.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\product5.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\product5.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\product6.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\product6.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\product7.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\product7.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\examples\\product8.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\examples\\product8.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ad.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ad.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ae.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ae.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\af.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\af.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ag.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ag.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ai.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ai.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\al.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\al.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\am.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\am.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\an.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\an.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ao.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ao.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ar.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ar.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\as.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\as.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\at.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\at.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\au.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\au.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\aw.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\aw.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ax.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ax.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\az.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\az.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ba.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ba.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\bb.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\bb.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\bd.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\bd.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\be.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\be.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\bf.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\bf.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\bg.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\bg.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\bh.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\bh.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\bi.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\bi.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\bj.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\bj.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\bm.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\bm.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\bn.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\bn.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\bo.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\bo.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\br.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\br.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\bs.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\bs.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\bt.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\bt.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\bv.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\bv.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\bw.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\bw.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\by.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\by.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\bz.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\bz.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ca.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ca.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\catalonia.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\catalonia.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\cc.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\cc.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\cd.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\cd.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\cf.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\cf.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\cg.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\cg.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ch.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ch.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ci.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ci.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ck.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ck.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\cl.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\cl.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\cm.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\cm.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\cn.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\cn.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\co.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\co.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\cr.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\cr.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\cs.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\cs.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\cu.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\cu.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\cv.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\cv.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\cx.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\cx.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\cy.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\cy.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\cz.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\cz.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\de.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\de.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\dj.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\dj.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\dk.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\dk.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\dm.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\dm.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\do.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\do.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\dz.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\dz.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ec.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ec.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ee.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ee.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\eg.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\eg.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\eh.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\eh.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\england.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\england.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\er.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\er.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\es.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\es.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\et.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\et.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\europeanunion.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\europeanunion.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\fam.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\fam.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\fi.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\fi.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\fj.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\fj.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\fk.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\fk.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\fm.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\fm.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\fo.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\fo.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\fr.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\fr.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ga.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ga.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\gb.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\gb.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\gd.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\gd.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ge.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ge.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\gf.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\gf.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\gh.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\gh.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\gi.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\gi.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\gl.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\gl.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\gm.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\gm.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\gn.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\gn.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\gp.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\gp.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\gq.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\gq.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\gr.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\gr.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\gs.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\gs.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\gt.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\gt.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\gu.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\gu.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\gw.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\gw.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\gy.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\gy.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\hk.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\hk.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\hm.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\hm.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\hn.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\hn.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\hr.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\hr.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ht.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ht.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\hu.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\hu.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\id.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\id.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ie.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ie.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\il.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\il.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\in.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\in.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\io.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\io.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\iq.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\iq.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ir.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ir.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\is.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\is.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\it.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\it.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\jm.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\jm.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\jo.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\jo.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\jp.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\jp.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ke.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ke.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\kg.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\kg.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\kh.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\kh.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ki.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ki.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\km.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\km.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\kn.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\kn.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\kp.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\kp.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\kr.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\kr.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\kw.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\kw.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ky.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ky.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\kz.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\kz.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\la.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\la.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\lb.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\lb.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\lc.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\lc.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\li.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\li.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\lk.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\lk.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\lr.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\lr.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ls.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ls.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\lt.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\lt.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\lu.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\lu.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\lv.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\lv.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ly.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ly.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ma.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ma.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\mc.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\mc.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\md.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\md.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\me.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\me.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\mg.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\mg.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\mh.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\mh.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\mk.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\mk.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ml.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ml.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\mm.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\mm.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\mn.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\mn.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\mo.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\mo.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\mp.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\mp.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\mq.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\mq.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\mr.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\mr.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ms.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ms.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\mt.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\mt.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\mu.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\mu.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\mv.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\mv.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\mw.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\mw.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\mx.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\mx.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\my.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\my.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\mz.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\mz.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\na.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\na.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\nc.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\nc.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ne.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ne.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\nf.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\nf.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ng.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ng.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ni.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ni.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\nl.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\nl.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\no.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\no.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\np.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\np.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\nr.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\nr.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\nu.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\nu.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\nz.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\nz.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\om.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\om.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\pa.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\pa.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\pe.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\pe.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\pf.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\pf.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\pg.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\pg.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ph.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ph.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\pk.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\pk.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\pl.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\pl.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\pm.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\pm.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\pn.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\pn.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\pr.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\pr.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ps.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ps.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\pt.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\pt.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\pw.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\pw.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\py.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\py.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\qa.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\qa.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\re.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\re.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\readme.txt",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\readme.txt"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ro.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ro.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\rs.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\rs.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ru.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ru.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\rw.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\rw.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\sa.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\sa.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\sb.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\sb.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\sc.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\sc.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\scotland.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\scotland.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\sd.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\sd.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\se.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\se.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\sg.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\sg.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\sh.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\sh.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\si.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\si.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\sj.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\sj.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\sk.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\sk.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\sl.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\sl.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\sm.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\sm.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\sn.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\sn.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\so.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\so.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\sr.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\sr.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\st.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\st.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\sv.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\sv.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\sy.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\sy.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\sz.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\sz.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\tc.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\tc.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\td.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\td.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\tf.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\tf.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\tg.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\tg.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\th.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\th.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\tj.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\tj.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\tk.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\tk.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\tl.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\tl.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\tm.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\tm.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\tn.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\tn.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\to.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\to.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\tr.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\tr.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\tt.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\tt.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\tv.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\tv.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\tw.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\tw.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\tz.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\tz.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ua.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ua.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ug.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ug.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\um.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\um.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\us.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\us.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\uy.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\uy.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\uz.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\uz.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\va.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\va.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\vc.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\vc.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ve.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ve.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\vg.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\vg.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\vi.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\vi.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\vn.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\vn.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\vu.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\vu.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\wales.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\wales.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\wf.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\wf.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ws.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ws.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\ye.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\ye.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\yt.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\yt.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\za.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\za.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\zm.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\zm.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\flags\\zw.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\flags\\zw.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\img-shadow.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\img-shadow.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\jm_denis.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\jm_denis.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\kaiadmin\\demo1.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\kaiadmin\\demo1.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\kaiadmin\\demo2.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\kaiadmin\\demo2.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\kaiadmin\\demo3.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\kaiadmin\\demo3.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\kaiadmin\\demo4.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\kaiadmin\\demo4.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\kaiadmin\\demo5.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\kaiadmin\\demo5.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\kaiadmin\\demo6.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\kaiadmin\\demo6.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\kaiadmin\\demo7.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\kaiadmin\\demo7.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\kaiadmin\\demo8.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\kaiadmin\\demo8.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\kaiadmin\\demo9.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\kaiadmin\\demo9.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\kaiadmin\\favicon.ico",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\kaiadmin\\favicon.ico"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\kaiadmin\\favicon.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\kaiadmin\\favicon.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\kaiadmin\\favicon.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\kaiadmin\\favicon.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\kaiadmin\\icon.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\kaiadmin\\icon.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\kaiadmin\\icon.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\kaiadmin\\icon.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\kaiadmin\\logo_dark.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\kaiadmin\\logo_dark.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\kaiadmin\\logo_dark.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\kaiadmin\\logo_dark.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\kaiadmin\\logo_documentation.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\kaiadmin\\logo_documentation.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\kaiadmin\\logo_light.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\kaiadmin\\logo_light.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\kaiadmin\\logo_light.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\kaiadmin\\logo_light.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\logoproduct.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\logoproduct.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\logoproduct2.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\logoproduct2.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\logoproduct3.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\logoproduct3.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\mlane.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\mlane.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\profile.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\profile.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\profile2.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\profile2.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\sauro.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\sauro.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\talha.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\talha.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\undraw\\undraw_Hello_qnas.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\undraw\\undraw_Hello_qnas.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\undraw\\undraw_Taken_if77.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\undraw\\undraw_Taken_if77.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\undraw\\undraw_blank_canvas_3rbb.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\undraw\\undraw_blank_canvas_3rbb.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\undraw\\undraw_creative_team_r90h.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\undraw\\undraw_creative_team_r90h.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\undraw\\undraw_empty_xct9.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\undraw\\undraw_empty_xct9.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\undraw\\undraw_no_data_qbuo.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\undraw\\undraw_no_data_qbuo.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\undraw\\undraw_not_found_60pq.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\undraw\\undraw_not_found_60pq.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\undraw\\undraw_page_not_found_su7k.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\undraw\\undraw_page_not_found_su7k.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\undraw\\undraw_sign_in_e6hj.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\undraw\\undraw_sign_in_e6hj.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\undraw\\undraw_tabs_jf82.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\undraw\\undraw_tabs_jf82.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\undraw\\undraw_update_uxn2.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\undraw\\undraw_update_uxn2.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\undraw\\undraw_upgrade_06a0.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\undraw\\undraw_upgrade_06a0.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\img\\visa.svg",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\img\\visa.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\core\\jquery-3.7.1.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\core\\jquery-3.7.1.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\demo.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\demo.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\kaiadmin.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\kaiadmin.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\kaiadmin.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\kaiadmin.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\bootstrap-tagsinput\\bootstrap-tagsinput.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\bootstrap-tagsinput\\bootstrap-tagsinput.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\bootstrap-toggle\\bootstrap-toggle.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\bootstrap-toggle\\bootstrap-toggle.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\chart-circle\\circles.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\chart-circle\\circles.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\chart.js\\chart.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\chart.js\\chart.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\datatables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\datatables\\datatables.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\datepicker\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\datepicker\\bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\dropzone\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\dropzone\\dropzone.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\fullcalendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\fullcalendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\gmaps\\gmaps.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\gmaps\\gmaps.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\jquery.magnific-popup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\jquery.magnific-popup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\jquery.sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\jquery.sparkline\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\jquery.validate\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\jquery.validate\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\jsvectormap\\jsvectormap.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\jsvectormap\\jsvectormap.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\jsvectormap\\world.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\jsvectormap\\world.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\list.js\\list.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\list.js\\list.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\moment\\moment.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\moment\\moment.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\owl-carousel\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\owl-carousel\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\owl-carousel\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\owl-carousel\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\select2\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\select2\\select2.full.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\sortable\\sortable.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\sortable\\sortable.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\sticky-sidebar\\sticky-sidebar.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\sticky-sidebar\\sticky-sidebar.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\summernote\\summernote-lite.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\summernote\\summernote-lite.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\plugin\\webfont\\webfont.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\plugin\\webfont\\webfont.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\setting-demo.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\setting-demo.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\assets\\js\\setting-demo2.js",
+      "PackagePath": "staticwebassets\\kaiadmin\\assets\\js\\setting-demo2.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\charts\\charts.html",
+      "PackagePath": "staticwebassets\\kaiadmin\\charts\\charts.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\charts\\sparkline.html",
+      "PackagePath": "staticwebassets\\kaiadmin\\charts\\sparkline.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\components\\avatars.html",
+      "PackagePath": "staticwebassets\\kaiadmin\\components\\avatars.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\components\\buttons.html",
+      "PackagePath": "staticwebassets\\kaiadmin\\components\\buttons.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\components\\font-awesome-icons.html",
+      "PackagePath": "staticwebassets\\kaiadmin\\components\\font-awesome-icons.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\components\\gridsystem.html",
+      "PackagePath": "staticwebassets\\kaiadmin\\components\\gridsystem.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\components\\notifications.html",
+      "PackagePath": "staticwebassets\\kaiadmin\\components\\notifications.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\components\\panels.html",
+      "PackagePath": "staticwebassets\\kaiadmin\\components\\panels.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\components\\simple-line-icons.html",
+      "PackagePath": "staticwebassets\\kaiadmin\\components\\simple-line-icons.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\components\\sweetalert.html",
+      "PackagePath": "staticwebassets\\kaiadmin\\components\\sweetalert.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\components\\typography.html",
+      "PackagePath": "staticwebassets\\kaiadmin\\components\\typography.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\forms\\forms.html",
+      "PackagePath": "staticwebassets\\kaiadmin\\forms\\forms.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\icon-menu.html",
+      "PackagePath": "staticwebassets\\kaiadmin\\icon-menu.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\index.html",
+      "PackagePath": "staticwebassets\\kaiadmin\\index.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\maps\\googlemaps.html",
+      "PackagePath": "staticwebassets\\kaiadmin\\maps\\googlemaps.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\maps\\jsvectormap.html",
+      "PackagePath": "staticwebassets\\kaiadmin\\maps\\jsvectormap.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\sidebar-style-2.html",
+      "PackagePath": "staticwebassets\\kaiadmin\\sidebar-style-2.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\starter-template.html",
+      "PackagePath": "staticwebassets\\kaiadmin\\starter-template.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\tables\\datatables.html",
+      "PackagePath": "staticwebassets\\kaiadmin\\tables\\datatables.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\tables\\tables.html",
+      "PackagePath": "staticwebassets\\kaiadmin\\tables\\tables.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\kaiadmin\\widgets.html",
+      "PackagePath": "staticwebassets\\kaiadmin\\widgets.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_variables-dark.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\helpers\\_focus-ring.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\helpers\\_focus-ring.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\helpers\\_icon-link.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\helpers\\_icon-link.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\bootstrap\\dist\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\register\\css\\popuo-box.css",
+      "PackagePath": "staticwebassets\\register\\css\\popuo-box.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\register\\css\\style.css",
+      "PackagePath": "staticwebassets\\register\\css\\style.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\register\\images\\b2.jpg",
+      "PackagePath": "staticwebassets\\register\\images\\b2.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\register\\images\\e-mail.png",
+      "PackagePath": "staticwebassets\\register\\images\\e-mail.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\register\\images\\password.png",
+      "PackagePath": "staticwebassets\\register\\images\\password.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\register\\images\\tick.png",
+      "PackagePath": "staticwebassets\\register\\images\\tick.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\register\\images\\user.png",
+      "PackagePath": "staticwebassets\\register\\images\\user.png"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\register\\index.html",
+      "PackagePath": "staticwebassets\\register\\index.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\register\\js\\jquery-2.1.4.min.js",
+      "PackagePath": "staticwebassets\\register\\js\\jquery-2.1.4.min.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\register\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\register\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\register\\w3layouts-License.txt",
+      "PackagePath": "staticwebassets\\register\\w3layouts-License.txt"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\about.html",
+      "PackagePath": "staticwebassets\\web\\about.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\blog.html",
+      "PackagePath": "staticwebassets\\web\\blog.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\contact.html",
+      "PackagePath": "staticwebassets\\web\\contact.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\web\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\web\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\css\\slider.css",
+      "PackagePath": "staticwebassets\\web\\css\\slider.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\css\\style.css",
+      "PackagePath": "staticwebassets\\web\\css\\style.css"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\web\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\images\\ab.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\ab.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\banner1.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\banner2.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\images\\banner3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\banner3.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\images\\blog1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\blog1.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\images\\blog2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\blog2.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\images\\blog3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\blog3.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\images\\blog4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\blog4.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\images\\blog5.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\blog5.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\images\\blog6.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\blog6.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\images\\skill1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\skill1.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\images\\skill2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\skill2.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\images\\t1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\t1.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\images\\t2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\t2.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\images\\t3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\t3.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\images\\t4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\t4.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\images\\te1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\te1.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\images\\te2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\te2.jpg"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\index.html",
+      "PackagePath": "staticwebassets\\web\\index.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\single.html",
+      "PackagePath": "staticwebassets\\web\\single.html"
+    },
+    {
+      "Id": "D:\\EasyCashIdentity\\EasyCashIndetityProject\\EasyCashIndetityProject.Presentation\\wwwroot\\web\\w3layouts-license.txt",
+      "PackagePath": "staticwebassets\\web\\w3layouts-license.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EasyCashIndetityProject.Presentation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.EasyCashIndetityProject.Presentation.props",
+      "PackagePath": "build\\EasyCashIndetityProject.Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.EasyCashIndetityProject.Presentation.props",
+      "PackagePath": "buildMultiTargeting\\EasyCashIndetityProject.Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.EasyCashIndetityProject.Presentation.props",
+      "PackagePath": "buildTransitive\\EasyCashIndetityProject.Presentation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

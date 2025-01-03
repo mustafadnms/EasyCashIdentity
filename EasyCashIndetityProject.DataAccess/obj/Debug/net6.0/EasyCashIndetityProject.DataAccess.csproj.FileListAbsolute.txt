@@ -1,0 +1,17 @@
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.DataAccess\bin\Debug\net6.0\EasyCashIndetityProject.DataAccess.deps.json
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.DataAccess\bin\Debug\net6.0\EasyCashIndetityProject.DataAccess.runtimeconfig.json
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.DataAccess\bin\Debug\net6.0\EasyCashIndetityProject.DataAccess.dll
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.DataAccess\bin\Debug\net6.0\EasyCashIndetityProject.DataAccess.pdb
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.DataAccess\bin\Debug\net6.0\EasyCashIndetityProject.Entity.dll
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.DataAccess\bin\Debug\net6.0\EasyCashIndetityProject.Entity.pdb
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.DataAccess\obj\Debug\net6.0\EasyCashIndetityProject.DataAccess.csproj.AssemblyReference.cache
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.DataAccess\obj\Debug\net6.0\EasyCashIndetityProject.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.DataAccess\obj\Debug\net6.0\EasyCashIndetityProject.DataAccess.AssemblyInfoInputs.cache
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.DataAccess\obj\Debug\net6.0\EasyCashIndetityProject.DataAccess.AssemblyInfo.cs
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.DataAccess\obj\Debug\net6.0\EasyCashIndetityProject.DataAccess.csproj.CoreCompileInputs.cache
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.DataAccess\obj\Debug\net6.0\EasyCash.83D4CBC8.Up2Date
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.DataAccess\obj\Debug\net6.0\EasyCashIndetityProject.DataAccess.dll
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.DataAccess\obj\Debug\net6.0\refint\EasyCashIndetityProject.DataAccess.dll
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.DataAccess\obj\Debug\net6.0\EasyCashIndetityProject.DataAccess.pdb
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.DataAccess\obj\Debug\net6.0\EasyCashIndetityProject.DataAccess.genruntimeconfig.cache
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.DataAccess\obj\Debug\net6.0\ref\EasyCashIndetityProject.DataAccess.dll

@@ -1,0 +1,14 @@
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.Dto\bin\Debug\net6.0\EasyCashIndetityProject.Dto.deps.json
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.Dto\bin\Debug\net6.0\EasyCashIndetityProject.Dto.runtimeconfig.json
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.Dto\bin\Debug\net6.0\EasyCashIndetityProject.Dto.dll
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.Dto\bin\Debug\net6.0\EasyCashIndetityProject.Dto.pdb
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.Dto\obj\Debug\net6.0\EasyCashIndetityProject.Dto.csproj.AssemblyReference.cache
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.Dto\obj\Debug\net6.0\EasyCashIndetityProject.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.Dto\obj\Debug\net6.0\EasyCashIndetityProject.Dto.AssemblyInfoInputs.cache
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.Dto\obj\Debug\net6.0\EasyCashIndetityProject.Dto.AssemblyInfo.cs
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.Dto\obj\Debug\net6.0\EasyCashIndetityProject.Dto.csproj.CoreCompileInputs.cache
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.Dto\obj\Debug\net6.0\EasyCashIndetityProject.Dto.dll
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.Dto\obj\Debug\net6.0\refint\EasyCashIndetityProject.Dto.dll
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.Dto\obj\Debug\net6.0\EasyCashIndetityProject.Dto.pdb
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.Dto\obj\Debug\net6.0\EasyCashIndetityProject.Dto.genruntimeconfig.cache
+D:\EasyCashIdentity\EasyCashIndetityProject\EasyCashIndetityProject.Dto\obj\Debug\net6.0\ref\EasyCashIndetityProject.Dto.dll
